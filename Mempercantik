@@ -1,0 +1,465 @@
+
+
+
+<!DOCTYPE html>
+
+<html id="master" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<!--<script>if (document.referrer.search(/(\.link)/g) != -1) location.href = "/app/img/phishing.html?url=" + document.referrer;</script>-->
+	<!--<script>var version = window.location.hostname == "localhost" ? (new Date()).getTime() : "55.189.0"</script>-->
+	<style>.SITELOGIN[method=login], .SITELOGIN[method=register], .SITELOGIN[method=forgotpass], .SITELOGIN[method=chat]{visibility:hidden}</style>
+	<style>.loading{padding:3px;background:#ebebeb;display:none}.loading > div { border:1px solid #383838;padding:5px 10px; }.loading > div > div{display:inline-block;vertical-align:middle}</style>
+	<script data-main="/core/Scripts/RequireConfig.js?v=55.189.0" data-sub="Default0" src="/core/Scripts/lib/require-2.1.15.min.js?v=55.189.0" data-version="55.189.0" data-iframe="bukainternet.playcdn.net,139.59.5.49"></script>
+
+    
+<style>body{background-color: #000;}</style>
+
+	
+	
+	<siteapi mobile="auto" iframe="off" />
+	
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Pokerpelangi | Dominoqq | Domino99 | Bandarq | Capsa Susun</title>
+<meta name="description" content="pokerpelangi, dominoqq, domino99, BandarQ yang Sudah Terpercaya Sejak Tahun 2009, juga tersedia game menarik terbaru dalam satu user ID"/>
+<meta name="keywords" content="pokerpelangi, dominoqq, domino99, agen bandarq, agen dominoqq, bandarq, agen bandarq, capsa susun, poker pelangi, daftar pokerpelangi"/>
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="img/slide-img/slideshow.js"></script>
+<!--<script src="/Images/keypad/keypad.js"></script>-->
+
+
+<script type="text/javascript">
+	function popUpReg(url) {
+		popUpRegWindow = window.open(url, 'popUpRegWindow', 'height=450,width=850,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,location=no,directories=no,status=yes')
+	}
+
+	function popUpPingBox(url) {
+		popUpPingBoxWindow = window.open(url, 'popUpPingBoxWindow', 'height=480,width=340,left=0,top=0,resizable=no,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=yes')
+    }
+
+    function PopupCenter(pageURL, title, w, h) {
+        var left = (screen.width / 2) - (w / 2);
+        var top = (screen.height / 2) - (h / 2);
+        var targetWin = window.open(pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    }
+
+	
+
+	function banner(){
+	    var slide = new slideshow("#slideshow", 794, 360, 5000, 2000, "fade", undefined, "#fff");
+
+	    slide.AddImage('img/slide-img/welcome poker pelangi.jpg', '#', 'RGB(255,255,255)');
+	    slide.AddImage('img/slide-img/MADU99 SLIDE SHOW.jpg', '', 'RGB(255,255,255)');
+	    //slide.AddImage('img/slide-img/marioqq slide show.jpg', '#', 'RGB(255,255,255)');
+	    slide.AddImage('img/slide-img/Poker-Pelangi-slide-3.jpg', '#', 'RGB(255,255,255)');
+	    slide.AddImage('img/slide-img/P4.jpg', '#', 'RGB(255,255,255)');
+	    //slide.AddImage('img/slide-img/slide-kiukiu.jpg', '', 'RGB(255,255,255)');
+	    slide.AddImage('img/slide-img/mega bonus.jpg', '#', 'RGB(255,255,255)');
+	    //slide.AddImage('img/slide-img/slider4r.jpg', '', 'RGB(255,255,255)');
+	    //slide.AddImage('img/slide-img/poker pelangi bandarQ.png', '', 'RGB(255,255,255)');
+	}
+
+	$(document).ready(function() {
+	    banner();
+	});
+	
+</script>
+
+<!--Start of Zopim Live Chat Script-->
+<!-- (pokerpelangi.com) -->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?29ky4BgLZAmav9e2w29sq6Btpq7F4bPp';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
+<style>
+    
+.nav_border
+{
+  border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  border: 0px solid #000000;
+}
+
+ul.nav,
+ul.nav * { margin:0;padding:0;}
+ul.nav {
+  position:relative;
+  height:1em; /* izy css - tinggi background topnav */
+  }
+
+ul.main li ul {
+	top:2.3em; /* izy css - jarak subnav dari topnav */
+}
+
+/* navigation (horizontal subnavigation)
+----------------------------------------------- */
+ul.nav li:hover ul {left:0;z-index:10}
+
+/* navigation (vertical subnavigation)
+----------------------------------------------- */
+ul.main li {
+	position:relative;
+	top:0;
+	left:0;
+	cursor:pointer;
+	float:left;
+	text-align:center;
+	list-style-type:none;
+	font-weight:normal;
+}
+
+ul.main li:first-child {
+border-left:none;
+}
+
+ul.main li ul {
+	cursor:default;
+	position:absolute;
+	height:auto;
+	/* top:4.2em; izy css - jarak subnav dari topnav */
+	background-position:0 0 !important;
+	left:-9000px;
+	border-top:0;
+	width:240px;
+}
+ul.main li ul li {
+	padding:0;
+	border:none;
+	width:auto;
+	max-width:none;
+}
+ul.main li a { /* izy css - link topnav keadaan normal */
+	font-family:verdana;
+	font-weight:normal;
+	text-decoration:none;
+	display:block;
+	float:left;
+	height:31px;
+	font-size:16px;
+	line-height:31px;
+	border:0;
+	color:#fff;
+	padding:0 0.9em;
+	/*background:url(../images/batasnav.png) repeat-y left;*/
+}
+ul.main li ul li a {
+	position:relative !important; /* ie Mac */
+	cursor:pointer !important;
+	white-space:nowrap;
+	width:12em; /* izy css - lebar subnav */
+	line-height:2em; /* izy css - tinggi subnav */
+	height:2em;
+	text-align:left;
+	border-top:1px solid #bbb;
+	font-weight:normal;
+	float:none;
+}
+
+ul.main li ul li:first-child a {
+	border:none;
+}
+
+ul.main li:hover a { /* izy css - keadaan topnav hover */
+  color:#8bdee2;
+}
+ul.main li:hover ul li a {color:#fff; background-color:#791899; text-shadow:none; display:block; float:none;} /* izy css - style keadaan subnav normal */
+ul.main li:hover ul li a:hover {color:#fff; background:#d491e8;} /* izy css - style keadaan subnav hover */
+ul.main li:hover a:active {background:none;} /* izy css - keaadan topnav saat di klik */
+ul.main li:hover ul li a:active {color:#fff; background:none;} /* izy css - keaadan subnav saat di klik */
+#btn-register{
+	background:url(img/images/daftar_bttn.png) no-repeat; width:134px; height:45px; border:none; cursor:pointer;
+	visibility:visible;
+}
+#btn-login{
+	background:url(img/images/login_bttn.png) no-repeat; width:134px; height:45px; border:none; cursor:pointer;
+	visibility:visible;
+}
+</style>
+
+
+</head>
+<body>
+	<div style="width:100%;position:fixed;top:0;left:0;text-align:center;z-index:999">
+		<div id="login_loading" class="loading">
+			<div style="display:inline-block">
+				<div style="margin-right:5px;width:16px;height:16px;">
+					<img src="/core/Images/loading.gif" />
+				</div>
+				<div style="color:#000">loading...</div>
+			</div>
+		</div>
+	</div>
+	
+
+
+<!--container-->
+<div style="width:840px;height:auto; margin:0 auto;">
+
+<!--header-->
+
+<div style="width:840px;height:auto; margin:0 auto;">
+    <!--login-->
+    <div style="width:655px;height:45px; position:relative; margin:0 auto;">
+        <!--Form --->
+        <form>
+            <div style="width:134px;height:45px;float:left;">
+            <input type="button" value="" class="SITELOGIN" method="register" id="btn-register"/>
+            </div>
+            
+            <div style="width:187px;height:33px;float:left;margin-top:8px;margin-left:5px;background-image:url(img/images/user_bg.png); background-repeat:no-repeat;">
+            <input name="ctl00$body$txtUserName" type="text" id="body_txtUserName" placeholder="Username" tabindex="1" class="SITELOGIN" method="username" style="width:170px;height:24px;float:left;border:none;margin-top:3px;margin-left:7px; background-color:transparent;" />
+            </div>
+            <div style="width:187px;height:33px;float:left;margin-top:8px;margin-left:0px;background-image:url(img/images/pwd_bg.png);background-repeat:no-repeat;">
+            <input name="ctl00$body$txtPassword" type="password" id="body_txtPassword" placeholder="Password" tabindex="2" class="SITELOGIN" method="password" style="width:170px;height:24px;float:left;border:none;margin-top:3px;margin-left:8px; background-color:transparent;" />
+            </div>
+            
+            
+            <div style="width:135px;height:45px;float:left;margin-left:6px;">
+            <input type="button" value="" class="SITELOGIN" method="login" id="btn-login"/>
+            </div>
+        </form>
+        <!--End Form-->
+    </div>
+    
+    <!--logo-->
+    <div style="width:436px;height:172px; margin:0 auto;">
+    	<a href="http://www.pokerpelangi.com"><img src="img/images/logo_2.png" border="0" style="margin-top:12px;"/></a>
+    </div>
+
+    <!--navigation menu-->
+    <div style="width:840px;height:30px; margin:0 auto; margin-top:20px;">
+        <div class="nav_border" style=" width:730px;height:30px; margin:0 auto; background-color:#159897;">
+            <table style="width:730px;margin:0 auto;position:relative;" cellpadding="0" cellspacing="0">
+                <tr>    
+                    <td>
+                        <ul class="nav main" style="margin-left:30px;">
+                            <li><a href="#" class="SITELOGIN" method="register">PENDAFTARAN</a></li>
+                            <li><a href="#">PANDUAN</a>
+                             <ul style="width:190px;z-index:9999;margin-top:-10px;margin-left:-40px;">
+                            <li><a href="JavaScript:PopupCenter('/app/img/panduan2.html','panduan','800','600');" style="width:190px;text-align:center;padding:0;line-height:25px;height:25px;">PANDUAN</a></li>
+                            <li><a href="JavaScript:PopupCenter('/app/img/panduan-nawala.html','panduan','800','600');" style="width:190px;text-align:center;padding:0;line-height:25px;height:25px;">PANDUAN&nbsp;NAWALA</a></li>
+                            </ul>
+                            </li>
+                            <li><a href="JavaScript:PopupCenter('/app/img/jadwal.html','jadwal','800','600');">JADWAL BANK</a></li>
+                            <li><a href="JavaScript:PopupCenter('/app/img/peraturan.html','peraturan','800','600');">PERATURAN</a></li>
+                            <li><a href="JavaScript:PopupCenter('/app/img/promo0.html','promo','800','600');">PROMO</a>
+                </li>
+                
+                <li class="clear"></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>    
+        <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+
+<!--End Header -->
+
+
+<!--marquee_jackpot-->
+<div style="width:840px;height:233px; margin-top:0px; float:left; background-image:url(img/images/marquee_jackpot_bg.png); background-repeat:no-repeat;">
+
+<!--marquee-->
+<div style="width:840px;height:55px;float:left; position:relative;">
+    	<marquee behavior="scroll" style="position:absolute; width:690px; left:80px;  top:20px; font-size:14px; font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif;color:rgb(255,255,255);" class="SITEAPI" method="message"></marquee>
+
+</div>
+
+<!--jackpot-->
+<div style="width:840px;height:178px;float:left;">
+<!--poker-->
+<div id="Poker228" style="width:262px;height:36px;float:left;margin-top:122px;margin-left:100px; font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif;color:rgb(255,255,255); font-size:28px; text-align:center; vertical-align:middle; font-weight:bold;">
+<span class="SITEAPI" method="jackpot" param="poker228" separator=","></span>
+</div>
+<!--domino-->
+<div id="Domino99" style="width:262px;height:36px;float:left;margin-top:122px;margin-left:116px; font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif;color:rgb(255,255,255); font-size:28px; text-align:center; vertical-align:middle; font-weight:bold;">
+<span class="SITEAPI" method="jackpot" param="domino99" separator=","></span>
+</div>
+</div>
+</div>
+
+<!--slider-->
+<div style="width:840px;height:406px;float:left; background-image:url(img/images/slider_bg.png); background-repeat:no-repeat;">
+<iframe src="https://pokeronline.photos/slider/pokerpelangi/" allowtransparency="true" scrolling="no" frameborder="0" height="406" width="100%"></iframe>
+<!-- <div id="slideshow" style="width:794px;height:360px;float:left;margin-top:23px;margin-left:23px;"></div> -->
+</div>
+
+<!--table_social-->
+<div style="width:840px;height:272px;float:left;">
+<!--deposit-->
+<div style="width:305px;height:272px;float:left; background-image:url(img/images/deposit_bg.png); background-repeat:no-repeat;">
+<div style="width:273px;height:170px;float:left;margin-left:20px;margin-top:86px;">
+<table id="tbl_deposit" style="width:253px;height:170px;margin:0 10px;float:left;border:none;color:#fff">
+<tr> <td class="SITEAPI" method="deposit-name-1"></td> <td class="SITEAPI" method="deposit-date-1"></td> <td class="SITEAPI" method="deposit-amt-1"></td> </tr>
+<tr> <td class="SITEAPI" method="deposit-name-2"></td> <td class="SITEAPI" method="deposit-date-2"></td> <td class="SITEAPI" method="deposit-amt-2"></td> </tr>
+<tr> <td class="SITEAPI" method="deposit-name-3"></td> <td class="SITEAPI" method="deposit-date-3"></td> <td class="SITEAPI" method="deposit-amt-3"></td> </tr>
+<tr> <td class="SITEAPI" method="deposit-name-4"></td> <td class="SITEAPI" method="deposit-date-4"></td> <td class="SITEAPI" method="deposit-amt-4"></td> </tr>
+<tr> <td class="SITEAPI" method="deposit-name-5"></td> <td class="SITEAPI" method="deposit-date-5"></td> <td class="SITEAPI" method="deposit-amt-5"></td> </tr>
+</table>
+</div>
+</div>
+<!--withdraw-->
+<div style="width:301px;height:272px;float:left; background-image:url(img/images/withdraw_bg.png); background-repeat:no-repeat;">
+<div style="width:273px;height:170px;float:left;margin-left:20px;margin-top:86px;">
+<table id="tbl_withdraw" style="width:253px;height:170px;margin:0 10px;float:left;border:none;color:#fff">
+<tr> <td class="SITEAPI" method="withdraw-name-1"></td> <td class="SITEAPI" method="withdraw-date-1"></td> <td class="SITEAPI" method="withdraw-amt-1"></td> </tr>
+<tr> <td class="SITEAPI" method="withdraw-name-2"></td> <td class="SITEAPI" method="withdraw-date-2"></td> <td class="SITEAPI" method="withdraw-amt-2"></td> </tr>
+<tr> <td class="SITEAPI" method="withdraw-name-3"></td> <td class="SITEAPI" method="withdraw-date-3"></td> <td class="SITEAPI" method="withdraw-amt-3"></td> </tr>
+<tr> <td class="SITEAPI" method="withdraw-name-4"></td> <td class="SITEAPI" method="withdraw-date-4"></td> <td class="SITEAPI" method="withdraw-amt-4"></td> </tr>
+<tr> <td class="SITEAPI" method="withdraw-name-5"></td> <td class="SITEAPI" method="withdraw-date-5"></td> <td class="SITEAPI" method="withdraw-amt-5"></td> </tr>
+</table>
+</div>
+</div>
+
+<!--social-->
+<div style="width:234px;height:272px;float:left;">
+<div style="width:211px;height:261px;float:left;margin-top:11px;margin-left:12px;">
+<!--handphone-->
+<div style="width:221px;height:48px;float:left; background-image:url(img/images/01_hp1.png); background-repeat:no-repeat;">
+<div style="padding-left:70px;padding-top:20px;font-size:14px;font-family:Arial;color:#fff;">+855 963 710 491</div>
+</div>
+
+<!--Telegram-->
+<div style="width:221px;height:40px;float:left; background-image:url(img/images/02_Telegram.png); background-repeat:no-repeat;">
+<div style="padding-left:75px;padding-top:12px;font-size:14px;font-family:Arial;color:#fff;">pokerpelangi</div>
+</div>
+
+<!--instagram-->
+<div style="width:221px;height:40px;float:left; background-image:url(img/images/03_insta1.png); background-repeat:no-repeat;">
+<a href="#" style="font-size:14px;font-family:Arial;text-decoration:none;color:#fff;"><div style="padding-left:70px;padding-top:13px;font-size:14px;font-family:Arial;color:#fff;">POKERPELANGI</div></a>
+</div>
+
+<!--whatsapp-->
+<div style="width:221px;height:40px;float:left; background-image:url(img/images/04_whatsapps1.png); background-repeat:no-repeat;">
+<a href="#" style="font-size:14px;font-family:Arial;text-decoration:none;color:#fff;"><div style="padding-left:70px;padding-top:13px;font-size:14px;font-family:Arial;color:#fff;">+855 963 710 491</div></a>
+</div>
+
+
+
+
+<!--line-->
+<div style="width:221px;height:40px;float:left; background-image:url(img/images/05_line.png); background-repeat:no-repeat;">
+<div style="padding-left:70px;padding-top:13px;font-size:14px;font-family:Arial;color:#fff;">poker.pelangi</div>
+</div>
+
+<!--fb-->
+<div style="width:221px;height:53px;float:left; background-image:url(img/images/06_fb1.png); background-repeat:no-repeat;">
+<a href="https://www.facebook.com/groups/746530328804859/" target="_blank" style="font-size:14px;font-family:Arial;text-decoration:none;color:#fff;">
+<div style="padding-left:70px;padding-top:13px;font-size:14px;font-family:Arial;color:#fff;">Poker Pelangi Reborn</div>
+</a>
+</div>
+
+
+
+<!--livechat
+<div style="width:221px;height:53px;float:left;">
+<a href="JavaScript:popUpPingBox('/app/livechat.html');">
+<img src="img/images/livechat_2_3.png" border="0"/>
+</a>
+</div>-->
+
+</div>
+</div>
+</div>
+
+<!--bank-->
+<div style="width:840px;height:41px;float:left;">
+<img src="img/images/bank.png" border="0"/>
+</div>
+
+<!--footer-->
+<div style="width:840px;height:31px;float:left; text-align:center;margin-top:10px; vertical-align:middle; font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif; font-size:12px;color:rgb(255,255,255);">
+Copyright &copy; <a href="#" style="text-decoration:none;color:rgb(255,255,255); font-weight:bold;">POKER PELANGI</a> is An Registered Trademark. All Rights Reserved.
+</div>
+
+</div>
+
+<div style="position:fixed;left:0;top:87px;">
+	<a href="ymsgr:sendIM?pokerpelangi_cs" style="text-decoration:none;">
+	</a>
+</div>
+
+<!--<div style="position:fixed;right:0;top:247px;">
+<a href="http://www.bolapelangi.com" target="_blank">
+<img src="img/images/pasang di web pokerpelangi.gif" border="0"/>
+</a>
+</div>-->
+
+<!--
+<div style="position:fixed;top:160px; left:0;">
+    <a href="http://www.ligabintang88.net" target="_blank">
+    <img src="img/images/ligabintangd.gif" border="0" />
+    </a>
+</div>
+
+ <div style="position:fixed;top:320px; left:0;">
+    <a href="http://vipqqdomino.com" target="_blank"> 
+    <img src="img/banner/Banner VIPPelangi.gif" border="0" /> 
+    </a>
+</div>
+
+ <div style="position:fixed;top:480px; left:0;">
+    <a href="http://www.Madu99.Org" target="_blank"> 
+    <img src="img/banner/maduu99 banner.gif" border="0" /> 
+    </a>
+</div> 
+
+<div style="position:fixed;top:220px; left:0;z-index:999;">	
+<iframe src="http://pokeronline.photos/pokerpelangi/ligabintang/" allowtransparency="true" scrolling="no" frameborder="0" height="400px" width="100%"></iframe>	
+</div>	
+
+<div style="position:fixed;top:380px; left:0;z-index:999;">	
+<iframe src="http://pokeronline.photos/pokerpelangi/vippelangi/" allowtransparency="true" scrolling="no" frameborder="0" height="400px" width="100%"></iframe>	
+</div>	
+
+<div style="position:fixed;top:540px; left:0;z-index:999;">	
+<iframe src="http://pokeronline.photos/pokerpelangi/madu99/" allowtransparency="true" scrolling="no" frameborder="0" height="400px" width="100%"></iframe>	
+</div>	-->
+
+<div style="position:fixed;top:200px; left:0;z-index:999;"> 
+<iframe src="https://pokeronline.photos/pokerpelangi/" allowtransparency="true" scrolling="no" frameborder="0" height="1000px" width="100%"></iframe>   
+</div>
+
+
+
+
+
+
+<!--
+<div id="popupinfoAd" style="z-index: 2000; position: absolute; top: 230px; left: 0; height: 100%; width: 100%; background-color: rgba(0, 0, 0, 0.8);">
+    <div style="background-color: transparent; padding: 0 0 30px 0; z-index: 9999; display: block; width: 583px; height:350px; top: 50px; margin: 0 auto;">
+			<img width="583px" height="307px" src="img/images/POP UP.jpg">
+			<br>
+		<input type="button" value="CLOSE" onclick="javascript:$('#popupinfoAd').hide();" style="margin-left:250px;margin-top:5px;color:white;background-color:black;width:120px;">
+	</div>
+</div>
+-->
+
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="frontpage hit counter" ><script  type="text/javascript" >
+try {Histats.start(1,2955479,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2955479&101" alt="frontpage hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+
+
+</body>
+</html>
